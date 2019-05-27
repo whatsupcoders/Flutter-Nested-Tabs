@@ -1,16 +1,43 @@
-# flutternestedtabsapp
+# flutternestedtabs
 
-A new Flutter project.
+Flutter Tutorial - Flutter Tutorials - Flutter NestedTabs
+I will be showing you how to add nested tabs in your flutter application,
 
+Flutter Tutorials - Flutter NestedTabs Video series can be watched here https://youtu.be/bSywfMPuwaw
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The code can be found here - https://github.com/whatsupcoders/NestedTabs/tree/master/flutternestedtabsapp
 
-A few resources to get you started if this is your first Flutter project:
+For more details about carousel_slider Plugin check this link - https://pub.dartlang.org/packages/carousel_slider#-readme-tab-
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+The version of the  carousel_slider plugin that I have used is 1.3.0
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/46075509/58398646-5597e100-801b-11e9-8a69-eba6bb68c7bc.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://user-images.githubusercontent.com/46075509/58398647-56307780-801b-11e9-9543-67cb2ccac96e.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/46075509/58398649-5761a480-801b-11e9-8a2b-d020f919ea42.png" width="200" />
+            </td>
+        </tr>
+      <tr>
+            <td style="text-align: center">
+                    //<img src="https://user-images.githubusercontent.com/46075509/58398646-5597e100-801b-11e9-8a69-eba6bb68c7bc.png" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w/
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
+
