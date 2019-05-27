@@ -28,7 +28,7 @@ The version of the  carousel_slider plugin that I have used is 1.3.0
         </tr>
       <tr>
             <td style="text-align: center">
-                    //<img src="https://user-images.githubusercontent.com/46075509/58398646-5597e100-801b-11e9-8a69-eba6bb68c7bc.png" width="200"/>
+                    <img src="https://github.com/whatsupcoders/Flutter-Nested-Tabs/blob/master/assets/nestedtabs.gif" width="200"/>
             </td>            
       </tr>
   </table>
