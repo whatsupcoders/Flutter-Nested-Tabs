@@ -34,7 +34,8 @@ The version of the  carousel_slider plugin that I have used is 1.3.0
   </table>
   </div>
   
-For more Flutter Tutorials watch my videos on https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w/
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 FOLLOW ME HERE:
 
