@@ -1,6 +1,6 @@
 # flutternestedtabs
 
-Flutter Tutorial - Flutter Tutorials - Flutter NestedTabs
+Flutter Tutorials - Flutter NestedTabs
 I will be showing you how to add nested tabs in your flutter application,
 
 Flutter Tutorials - Flutter NestedTabs Video series can be watched here https://youtu.be/bSywfMPuwaw
